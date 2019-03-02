@@ -23,7 +23,7 @@ Skills (count) resources list
 low-level skills 
 that range from a solid sense of mathematics to 
 
-
+debugging 
 high-level skills
 like user-interface design.
 
@@ -32,7 +32,7 @@ How to break it down
 How to test and find bugs
 How to quickly narrow down the likely source of a bug
 How to improve performance and maintainability.
-https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543
+The Key to Becoming a Great Software Developer(https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543)
 
 [![GitHub stars](https://img.shields.io/github/stars/murffious/awesome-coder.svg?style=social&label=Star)](https://github.com/murffious/awesome-coder/)
 
