@@ -2,7 +2,7 @@
 
 
 
-A collection of awesome principles to be an awesome coder.  
+A bunch of awesome stuff to be help one become an awesome coder.  
 
 
 
