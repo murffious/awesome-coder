@@ -22,7 +22,7 @@ Smart
 Skills (count) resources list  
 low-level skills 
 that range from a solid sense of mathematics to 
-
+clean coding habits - naming of variables, functions, spacing 
 debugging 
 high-level skills
 like user-interface design.
