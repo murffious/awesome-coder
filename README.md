@@ -34,5 +34,11 @@ How to quickly narrow down the likely source of a bug
 How to improve performance and maintainability.
 [The Key to Becoming a Great Software Developer](https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543)
 
+
+
+design principles intended to make software designs more understandable, flexible and maintainable. 
+SOLID
+
+
 [![GitHub stars](https://img.shields.io/github/stars/murffious/awesome-coder.svg?style=social&label=Star)](https://github.com/murffious/awesome-coder/)
 
