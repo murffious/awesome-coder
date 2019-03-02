@@ -19,6 +19,12 @@ Creative and Great Problem Solving Skills
 Smart 
 
 Skills (count) resources list  
+low-level skills 
+that range from a solid sense of mathematics to 
+
+
+high-level skills
+like user-interface design.
 https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543
 
 [![GitHub stars](https://img.shields.io/github/stars/murffious/awesome-coder.svg?style=social&label=Star)](https://github.com/murffious/awesome-coder/)
