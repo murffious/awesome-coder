@@ -2,7 +2,7 @@
 
 
 
-A bunch of awesome stuff to be help one become an awesome coder. 
+A bunch of awesome stuff to be help one become an awesome coder. constantly evolving ulitamtely determine what kind of a developer do you want to be and specialze or a be a jack of all trades(skills). 
 
 
 ## Software Engineer Skills 
