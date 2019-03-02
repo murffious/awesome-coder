@@ -2,7 +2,7 @@
 
 
 
-A bunch of awesome stuff to be help one become an awesome coder.  
+A bunch of awesome stuff to be help one become an awesome coder. 
 
 
 ## Software Engineer Skills 
@@ -18,6 +18,8 @@ Creative and Great Problem Solving Skills
     - Using Slack Facebook groups or other collaborative tools 
 Smart 
 
+Skills (count) resources list  
+https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543
 
 [![GitHub stars](https://img.shields.io/github/stars/murffious/awesome-coder.svg?style=social&label=Star)](https://github.com/murffious/awesome-coder/)
 
