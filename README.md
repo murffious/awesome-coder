@@ -12,6 +12,7 @@ Do I need a computer science degree to be a Google software engineer? No.
 What skills do computer science studetns learn that I would miss as a bootcamp grad?
 
 How to get good - Code Code Code Keep Coding (practice) 
+The best way to learn is to find a problem you want to solve, and try to solve it yourself
 Learning New Things
 Creative and Great Problem Solving Skills
     - Finding Answers to Tough quesiotns on Goolge 
