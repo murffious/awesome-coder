@@ -2,8 +2,16 @@
 
 
 
-A bunch of awesome stuff to be help one become an awesome coder. constantly evolving ulitamtely determine what kind of a developer do you want to be and specialze or a be a jack of all trades(skills). 
+A bunch of awesome stuff to be help one become an awesome coder. constantly evolving ulitamtely determine what kind of a developer do you want to be and specialze or a be a jack of all trades(skills). World class engineer not just a bootcamp grad or self taught. 
 
+
+## What does the term "Best Practices" even mean and should I care?
+Best practices ever Docs. On there
+Problems solving how to algorithm docs
+
+—
+Master the elements docs 
+Web components teaching style 1 at at time. 
 
 ## Software Engineer Skills 
 *What makes an engineer world class?*
