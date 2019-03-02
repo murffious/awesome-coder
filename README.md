@@ -48,5 +48,10 @@ design principles intended to make software designs more understandable, flexibl
 SOLID
 
 
+
+User exp 
+Spinners 
+Loading 
+Feedback
 [![GitHub stars](https://img.shields.io/github/stars/murffious/awesome-coder.svg?style=social&label=Star)](https://github.com/murffious/awesome-coder/)
 
