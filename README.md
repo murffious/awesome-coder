@@ -1,4 +1,4 @@
-# Awesome Coder [Awesome]
+# Awesome Coder 
 
 
 
