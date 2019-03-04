@@ -4,6 +4,16 @@
 
 A bunch of awesome stuff to be help one become an awesome coder. constantly evolving ulitamtely determine what kind of a developer do you want to be and specialze or a be a jack of all trades(skills). World class engineer not just a bootcamp grad or self taught. 
 
+# basics first 
+
+
+Learning priorities - my list of trusted videos - back log topics - anything else is class HW review video activity review and coding along 80 20 or 15 min videos youtube etc
+1. Stephen glider
+2. Colte Steele
+3. Lynda com HTLM CSS programming basic, programming web dev path 
+4. Andrew meads
+5. Maximilian scawrz 
+6. Front end master for very in depth time intesinve here but good. 
 
 ## What does the term "Best Practices" even mean and should I care?
 Best practices ever Docs. On there
