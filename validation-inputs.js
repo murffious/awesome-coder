@@ -2,9 +2,11 @@
 // Updating with react from props 
 // error handling 
 // tools to force structure 
+//** Assignment make this a resuable Class to be used through the whole code base ** applyting best practices of OOP in JS --
 
-Theory - update aprop calle inputNameState with string of success or error - run isValid() on each onChange or keystroke
-the change function runs setting set to error or success which drives a conditional red or green prompt (colors optional) in the css. 
+
+//Theory - update aprop calle inputNameState with string of success or error - run isValid() on each onChange or keystroke
+//the change function runs setting set to error or success which drives a conditional red or green prompt (colors optional) in the css. 
 
 
 // validate pass as prop 
